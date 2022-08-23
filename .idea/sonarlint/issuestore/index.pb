@@ -1,0 +1,19 @@
+
+9
+	manage.py,3/1/3156ad13e4d695cd526bbb7b031016ecba842270
+F
+testdeploy/__init__.py,7/1/718e8b11a31722b5b550f988d8f413ee1de6718d
+B
+testdeploy/asgi.py,f/b/fb3abbde75a1526587ad275dd4f94dfa445f4793
+@
+fastbert/apps.py,c/6/c615f59bc3f1263212f5f15ba2c214edf83f42c1
+A
+fastbert/admin.py,0/5/0536b162fa12b2810e14a9fac3482530de80edf9
+D
+fastbert/__init__.py,a/4/a45d7853a9aea5b66edf1f18d604d709273b9766
+B
+testdeploy/wsgi.py,7/5/752956bae4065f2abe1f935e6763bb48ed2dc744
+F
+testdeploy/settings.py,a/b/ab59c6de82b2284cc4e6fed73ec6dfb8f2ce0129
+A
+fastbert/tests.py,7/2/72c16479b4254309c30811d2d9fc5b6ca530a8ef
